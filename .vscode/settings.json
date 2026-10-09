@@ -1,0 +1,6 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.exclude": ["**/.venv", "**/data"],
+  "python.analysis.diagnosticMode": "openFilesOnly",
+  "python.analysis.indexing": false
+}
