@@ -2,3 +2,4 @@ pandas
 scikit-learn
 jupyter
 lightgbm
+mlflow==3.17.0

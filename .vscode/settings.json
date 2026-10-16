@@ -1,4 +1,5 @@
 {
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
   "python.analysis.typeCheckingMode": "basic",
   "python.analysis.exclude": ["**/.venv", "**/data"],
   "python.analysis.diagnosticMode": "openFilesOnly",
